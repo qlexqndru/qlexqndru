@@ -5,7 +5,11 @@
 <p align="center">
   <img height="24" width="24" src="https://cdn.simpleicons.org/nixos/black/white" />
   &nbsp;&nbsp;&nbsp;
+  <img height="24" width="24" src="https://cdn.simpleicons.org/kalilinux/black/white" />
+  &nbsp;&nbsp;&nbsp;
   <img height="24" width="24" src="https://cdn.simpleicons.org/python/black/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" width="24" src="https://cdn.simpleicons.org/javascript/black/white" />
 </p>
 
 ---
