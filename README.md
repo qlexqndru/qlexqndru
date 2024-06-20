@@ -22,6 +22,6 @@
 
 ### Github stats 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=qlexqndru&rank_icon=percentile&theme=gotham&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=qlexqndru&rank_icon=percentile&theme=gotham&show_icons=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&theme=gotham)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&theme=gotham)
+
