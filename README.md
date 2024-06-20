@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hello;salut;привет;こんにちは;&font=Fira%20Code&center=true&width=300&height=50&duration=4000&pause=1000" alt="Title text"> 👋
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=hello;salut;こんにちは;привет;&font=Fira%20Code&center=true&width=300&height=50&duration=4000&pause=1000" alt="Title text">
+  </span>
+  <span style="display: inline-block; vertical-align: middle;">👋</span>
 </p>
 
 <p align="center">
