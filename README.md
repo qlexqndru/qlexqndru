@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&rank_icon=percentile&card_width=220&theme=transparent&bg_color=000000" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&rank_icon=percentile&card_width=220&theme=jolly&bg_color=00000000" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=donut&card_width=220&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=donut&card_width=220&theme=jolly&bg_color=00000000" />
   </a>
 </p>
