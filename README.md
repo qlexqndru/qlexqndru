@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hello+fren+👋;Checkout+my+GitHub+profile!;&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Title text">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+friend+👋;Checkout+my+GitHub+profile!;&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Title text">
 </p>
 
 <p align="center">
   <img height="24" width="24" src="https://cdn.simpleicons.org/nixos/black/white" />
+  <img height="24" width="24" src="https://cdn.simpleicons.org/python/black/white" />
 </p>
 
 ---
