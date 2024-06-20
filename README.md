@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&rank_icon=percentile&card_width=220&theme=transparent&custom_title='Qs Stats'" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&rank_icon=percentile&card_width=220&theme=transparent&custom_title=Stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=donut&card_width=220&theme=transparent&custom_title='Qs Langs'" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=donut&card_width=220&theme=transparent&custom_title=Langs" />
   </a>
 </p>
