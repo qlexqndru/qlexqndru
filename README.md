@@ -1,24 +1,50 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hello+👋;salut+👋;こんにちは+👋;привет+👋;&font=Fira%20Code&center=true&width=300&height=50&duration=4000&pause=1000" alt="Title text">
-</p>
+```
+ ██████╗ ██╗     ███████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ██████╗ ██╗   ██╗
+██╔═══██╗██║     ██╔════╝╚██╗██╔╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║   ██║
+██║   ██║██║     █████╗   ╚███╔╝ ███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║
+██║▄▄ ██║██║     ██╔══╝   ██╔██╗ ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║
+╚██████╔╝███████╗███████╗██╔╝ ██╗██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+ ╚══▀▀═╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
 
-<p align="center">
-  <img height="24" width="24" src="https://cdn.simpleicons.org/nixos/black/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/kalilinux/black/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/python/black/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/javascript/black/white" />
+```bash
+$ whoami
+> alexandru q
+
+$ cat /etc/stack
+> nix | rust | typescript | python
+
+$ uptime
+> building things since 2020
+
+$ pwd
+> somewhere in europe
+```
+
+---
+
+#### `$ ls -la ~/projects`
+
+```
+drwxr-xr-x  spacetime-delorean   # real-time voting app | next.js + rust + spacetimedb
+drwxr-xr-x  buzzbot              # ai chatbot with web search | python + langchain
+drwxr-xr-x  zen-browser-flake    # nix flake for zen browser
+drwxr-xr-x  claude-cli-flake     # nix flake for claude code
+drwxr-xr-x  react-qr-scanner     # qr scanning library for react
+```
+
+---
+
+#### `$ cat ~/.stats`
+
+<p align="left">
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&bg_color=00000000&icon_color=888888&text_color=888888" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=compact&hide_title=true&hide_border=true&theme=github_dark&bg_color=00000000&text_color=888888" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qlexqndru&show_icons=true&rank_icon=percentile&card_width=220&theme=github_dark_dimmed&bg_color=00000000&custom_title=Q%27s%20Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlexqndru&layout=donut&card_width=220&theme=github_dark_dimmed&bg_color=00000000&custom_title=Q%27s%20Langs" />
-  </a>
-</p>
+```bash
+$ echo $CONTACT
+> alexqndru@xandru.co
+```
